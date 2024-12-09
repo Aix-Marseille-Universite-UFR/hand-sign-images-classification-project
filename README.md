@@ -91,7 +91,7 @@ To run the project, you need Python 3.x and the required libraries. Follow these
 
 ## Authors
 * **NEDDAY ANAS**
-* **MEHDI BELBELHOCINE**
+* **BELHOCINE MEHDI**
 * **BOUDRA Ayoub**
 * **KENZEDDINE Mohamed Amine**
  
