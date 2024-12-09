@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohamed-amine_kenzeddine/Downloads/testmlflow/mlruns/382260133435030118/11fee7564b794f049d5877c811ff3b02/artifacts
+end_time: 1733778458989
+entry_point_name: ''
+experiment_id: '382260133435030118'
+lifecycle_stage: active
+run_id: 11fee7564b794f049d5877c811ff3b02
+run_name: Version_2
+run_uuid: 11fee7564b794f049d5877c811ff3b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733778446404
+status: 3
+tags: []
+user_id: mohamed-amine_kenzeddine

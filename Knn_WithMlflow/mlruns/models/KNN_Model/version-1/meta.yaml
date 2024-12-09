@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733780780191
+current_stage: Production
+description: null
+last_updated_timestamp: 1733780780196
+name: KNN_Model
+run_id: 722dc6284b024b1691ef8b3e580e96f7
+run_link: null
+source: file:///Users/mohamed-amine_kenzeddine/Downloads/testmlflow/mlruns/382260133435030118/722dc6284b024b1691ef8b3e580e96f7/artifacts/best_knn_model
+status: READY
+status_message: null
+storage_location: file:///Users/mohamed-amine_kenzeddine/Downloads/testmlflow/mlruns/382260133435030118/722dc6284b024b1691ef8b3e580e96f7/artifacts/best_knn_model
+user_id: null
+version: 1
