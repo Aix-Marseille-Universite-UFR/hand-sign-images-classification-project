@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohamed-amine_kenzeddine/Downloads/testmlflow/mlruns/382260133435030118/f1922abda19944468a7282a2fc544055/artifacts
+end_time: 1733857297506
+entry_point_name: ''
+experiment_id: '382260133435030118'
+lifecycle_stage: active
+run_id: f1922abda19944468a7282a2fc544055
+run_name: Version_0
+run_uuid: f1922abda19944468a7282a2fc544055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733857294224
+status: 4
+tags: []
+user_id: nedday

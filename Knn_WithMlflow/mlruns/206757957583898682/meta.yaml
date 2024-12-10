@@ -1,0 +1,6 @@
+artifact_location: /Users/nedday/Documents/All Projects /hand-sign-images-classification-project/hand-sign-images-classification-project/Knn_WithMlflow/mlruns/206757957583898682
+creation_time: 1733857321485
+experiment_id: '206757957583898682'
+last_update_time: 1733857321485
+lifecycle_stage: active
+name: hand_sign_classifier_knn

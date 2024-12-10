@@ -1,0 +1,15 @@
+artifact_uri: /Users/nedday/Documents/All Projects /hand-sign-images-classification-project/hand-sign-images-classification-project/Knn_WithMlflow/mlruns/206757957583898682/32feaadd6fb8478fad7f00603a0f37a9/artifacts
+end_time: 1733857468226
+entry_point_name: ''
+experiment_id: '206757957583898682'
+lifecycle_stage: active
+run_id: 32feaadd6fb8478fad7f00603a0f37a9
+run_name: Version_3
+run_uuid: 32feaadd6fb8478fad7f00603a0f37a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733857412670
+status: 3
+tags: []
+user_id: nedday
