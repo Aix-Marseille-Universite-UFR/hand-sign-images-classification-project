@@ -1,5 +1,5 @@
 aliases: {}
 creation_timestamp: 1733780780188
 description: KNN Classifier trained on hand sign dataset with optimized hyperparameters.
-last_updated_timestamp: 1733780780196
+last_updated_timestamp: 1733927380289
 name: KNN_Model

@@ -1,0 +1,15 @@
+artifact_uri: /Users/mohamed-amine_kenzeddine/Downloads/Final/hand-sign-images-classification-project/Knn_WithMlflow/mlruns/714270150949722603/d2656810df4743a2a675dfef4cb35a5e/artifacts
+end_time: 1733926671666
+entry_point_name: ''
+experiment_id: '714270150949722603'
+lifecycle_stage: active
+run_id: d2656810df4743a2a675dfef4cb35a5e
+run_name: Version_4
+run_uuid: d2656810df4743a2a675dfef4cb35a5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733926659361
+status: 3
+tags: []
+user_id: mohamed-amine_kenzeddine

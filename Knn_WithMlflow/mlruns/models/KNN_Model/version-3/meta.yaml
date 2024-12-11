@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733927380276
+current_stage: Production
+description: null
+last_updated_timestamp: 1733927380289
+name: KNN_Model
+run_id: 64d43c263a5948a69ab94a724b606a8a
+run_link: null
+source: /Users/mohamed-amine_kenzeddine/Downloads/Final/hand-sign-images-classification-project/Knn_WithMlflow/mlruns/714270150949722603/64d43c263a5948a69ab94a724b606a8a/artifacts/best_knn_model
+status: READY
+status_message: null
+storage_location: /Users/mohamed-amine_kenzeddine/Downloads/Final/hand-sign-images-classification-project/Knn_WithMlflow/mlruns/714270150949722603/64d43c263a5948a69ab94a724b606a8a/artifacts/best_knn_model
+user_id: null
+version: 3
